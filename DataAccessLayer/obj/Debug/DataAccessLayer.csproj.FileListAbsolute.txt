@@ -1,0 +1,11 @@
+D:\TestProject\WebApi\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\TestProject\WebApi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\TestProject\WebApi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\TestProject\WebApi\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\TestProject\WebApi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\TestProject\WebApi\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\TestProject\WebApi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\TestProject\WebApi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\TestProject\WebApi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\TestProject\WebApi\DataAccessLayer\bin\Debug\Vse.Web.Serialization.dll
+D:\TestProject\WebApi\DataAccessLayer\bin\Debug\Vse.Web.Serialization.pdb
